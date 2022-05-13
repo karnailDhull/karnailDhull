@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='MapViewUITests.xctest' tests='4' failures='0'>
+  <testsuite name='MapViewTests.MapViewTests' tests='2' failures='0'>
+    <testcase classname='MapViewTests.MapViewTests' name='testExample' time='0.004'/>
+    <testcase classname='MapViewTests.MapViewTests' name='testPerformanceExample' time='0.557'/>
+  </testsuite>
+  <testsuite name='MapViewUITests.MapViewUITests' tests='2' failures='0'>
+    <testcase classname='MapViewUITests.MapViewUITests' name='testExample' time='1.706'/>
+    <testcase classname='MapViewUITests.MapViewUITests' name='testLaunchPerformance' time='81.845'/>
+  </testsuite>
+</testsuites>

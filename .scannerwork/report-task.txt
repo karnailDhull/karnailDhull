@@ -1,0 +1,6 @@
+projectKey=com.karan.com
+serverUrl=http://localhost:9000
+serverVersion=8.9.7.52159
+dashboardUrl=http://localhost:9000/dashboard?id=com.karan.com
+ceTaskId=AX90DeCeMiF5RUk3Nmeo
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX90DeCeMiF5RUk3Nmeo
